@@ -53,3 +53,9 @@ Full construction manual
 For detailed instructions, see:
 
 /docs/VectorCube_Construction_Manual.docx
+
+## Large CAD files
+
+Due to file size limitations, full-resolution STL files are available via Zenodo:
+
+https://doi.org/10.5281/zenodo.19496635
