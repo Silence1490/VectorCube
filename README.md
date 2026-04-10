@@ -1,12 +1,12 @@
-VectorCube
+# VectorCube
 
 Open-source repository containing the raw data, CAD files, and fully reproducible analysis for the VectorCube project. Includes all materials required to rebuild the VectorCube trap, reproduce the statistical analyses (GLMM/GAMM), and regenerate all tables and figures from the associated scientific publication.
 
-VectorCube – Data, Construction Files & Reproducible Analysis
+## VectorCube – Data, Construction Files & Reproducible Analysis
 
 This repository contains the complete dataset, CAD construction files, and analysis scripts used in the VectorCube study. It enables full reconstruction of the VectorCube trap and complete reproducibility of all statistical analyses and results from the associated scientific publication.
 
-Contents
+## Contents
 Raw and processed data
 CAD files and building instructions for the VectorCube
 R scripts for GLMM/GAMM analyses
@@ -15,18 +15,19 @@ Generated figures and tables
 
 All tables, figures, and models from the manuscript can be regenerated directly from the scripts provided here.
 
-🧱 VectorCube Construction (Condensed)
+ ## VectorCube Construction (Condensed)
 
 The VectorCube is a modular airflow-based insect trap consisting of a central airflow distributor, an inline duct fan, a pipe-based intake system, and an aluminium frame enclosed by a tarpaulin cover.
 
-Core components
-Interior airflow block (milled or 3D printed)
-Inline duct fan (100–125 mm diameter, ~270 CFM)
-DN 75 pipes with push-fit sockets (European standard)
-20 × 20 mm aluminium square tubing with corner connectors
-Tarpaulin cover with hook-and-loop fasteners
+### Core components
+Interior airflow block (milled or 3D printed),
+Inline duct fan (100–125 mm diameter, ~270 CFM),
+DN 75 pipes with push-fit sockets (European standard),
+20 × 20 mm aluminium square tubing with corner connectors,
+Tarpaulin cover with hook-and-loop fasteners,
 Optional capture chamber (DN 75 to 50 reducer + Falcon tube)
-Assembly overview
+
+### Assembly overview
 Prepare interior block
 Manufacture or print the airflow distributor and ensure smooth internal channels.
 Mount fan
